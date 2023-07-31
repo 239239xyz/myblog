@@ -533,7 +533,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: https://raw.githubusercontent.com/239239xyz/pic/573819b616661ea92cdbb1ce1aa42e78fabb3d14/default.png
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
