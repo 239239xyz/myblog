@@ -461,7 +461,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/default.png
+  banner_img: https://fastly.jsdelivr.net/gh/239239xyz/pic@master/default.png
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -533,7 +533,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: https://raw.githubusercontent.com/239239xyz/pic/573819b616661ea92cdbb1ce1aa42e78fabb3d14/default.png
+  banner_img: https://fastly.jsdelivr.net/gh/239239xyz/pic@master/default.png
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
